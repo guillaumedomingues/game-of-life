@@ -184,6 +184,9 @@ int main(int argc, char *argv[]){
       std::cout << "Invalid input for x,y arguments. \n";
       return 0;
     }
+    catch(std::out_of_range){
+      std::cout << "Input parameters too large. Try with a smaller grid.\n";
+    }
   }
 
   //Create grid with size x,y

@@ -1,3 +1,0 @@
-/home/feedoora/Documents/Work/Bisect_challenge/game_of_life_1.1/build/CMakeFiles/game_of_life.dir
-/home/feedoora/Documents/Work/Bisect_challenge/game_of_life_1.1/build/CMakeFiles/edit_cache.dir
-/home/feedoora/Documents/Work/Bisect_challenge/game_of_life_1.1/build/CMakeFiles/rebuild_cache.dir
